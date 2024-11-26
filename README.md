@@ -6,7 +6,7 @@
 - **Programming Languages**: Python, SQL, C++, R, Unix
 - **Concepts & Frameworks**: Data Structures, Algorithms, Graph Theory, Cryptography, Machine Learning
 - **Soft Skills**: Leadership, Public Speaking, Teamwork, Adaptability
-- **Tools**: GitHub, Visual Studio, Microsoft Office, MySQL, RStudios
+- **Tools**: GitHub, Visual Studio, Microsoft Office, MySQL, RStudio, IBM Watson Studio
 
 
 ### 📫 Connect With Me
