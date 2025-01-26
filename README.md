@@ -4,7 +4,7 @@
 
 ### 💡 Skills
 - **Programming Languages**: Python, SQL, C++, R, JavaScript
-- **Concepts & Frameworks**: Data Structures, Algorithms, Graph Theory, Cryptography, Machine Learning
+- **Concepts & Frameworks**: DSA, Graph Theory, Cryptography, Machine Learning
 - **Soft Skills**: Leadership, Public Speaking, Teamwork, Adaptability
 
 
